@@ -11,9 +11,6 @@ When I’m not writing code, you might find me brewing a cup of tea or stretchin
 
 ## Experience
 
-
-When I’m not writing code, you might find me brewing a cup of tea or stretching out in a yoga pose.
-EXPERIENCE
 ### Senior Front End Software Engineer, Contributor ([Juno Network](http://www.junonetwork.io/)) San Francisco (Remote), 2022 — 2023
 > Juno Network is a community-driven, decentralized platform enabling smart contract creation and execution within the Cosmos ecosystem.
 
