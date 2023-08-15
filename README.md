@@ -1,6 +1,6 @@
 # Eliot Baker
 ### Senior Front End Software Engineer, Technical Lead
-JavaScript • React • HTML5 • CSS3
+JavaScript • TypeScript • Next.js • React • HTML • CSS
 
 [eliotbaker.com](https://www.eliotbaker.com) • [github.com/ebaker](https://github.com/ebaker/) • [contact@eliotbaker.com](mailto:contact@eliotbaker.com)
 
