@@ -1,14 +1,38 @@
 # Eliot Baker
-### Senior Front End Software Engineer
+### Senior Front End Software Engineer, Technical Lead
 JavaScript • React • HTML5 • CSS3
 
 [eliotbaker.com](https://www.eliotbaker.com) • [github.com/ebaker](https://github.com/ebaker/) • [contact@eliotbaker.com](mailto:contact@eliotbaker.com)
 
-I enjoy creating responsive web applications with a keen eye for design. When I'm not developing components in React, you might find me brewing a cup of tea or stretching out in a yoga pose.
+A dedicated engineer experienced in building decentralized web applications, while prioritizing performance and responsive design.
+When I’m not writing code, you might find me brewing a cup of tea or stretching out in a yoga pose.
 <details>
  <summary>Click here to expand my resume!</summary>
 
 ## Experience
+
+
+When I’m not writing code, you might find me brewing a cup of tea or stretching out in a yoga pose.
+EXPERIENCE
+### Senior Front End Software Engineer, Contributor ([Juno Network](http://www.junonetwork.io/)) San Francisco (Remote), 2022 — 2023
+> Juno Network is a community-driven, decentralized platform enabling smart contract creation and execution within the Cosmos ecosystem.
+
+- Architected organizational patterns for front-end development utilizing TypeScript, Next.js, Recoil, CosmJS, and Tailwind CSS.
+- Developed features for DAO and DEX decentralized applications, seamlessly integrating smart contracts.
+- Optimized front-end performance, resulting in faster load times and enhanced near real-time data display.
+- Onboarded new contributors without prior web3 experience and reviewed contributor submissions through pull requests.
+- Contributed to open-source tooling to improve internal development and enhance the wider Cosmos ecosystem.
+- Maintained active validator on Juno Network, assuring consistent network performance.
+
+### Senior Front End Software Engineer, Technical Lead ([Tawkify, Inc.](http://www.tawkify.com/)) San Francisco, 2020 — 2022
+> Tawkify is a matchmaking service, offering a platform that connects clients with matchmakers for meaningful relationships.
+
+- Led planning and development for a team of engineers building a mobile-first signup redesign using React, CSS-in-JS, and MUI.
+- Established front-end patterns, streamlining and enhancing user sign-up processes.
+- Conducted A/B split testing to improve UI/UX and optimize user journey.
+- Collaborated with product/design teams for a cohesive UI/UX realization, bridging any technical gaps.
+- Ensured consistent utilization of established patterns and best practices through thorough code reviews.
+- Mentored junior developers, emphasizing best practices and guiding them through resolving blockers.
 
 ### Senior Front End Software Engineer ([Yara, Inc.](http://www.yara.com/)) San Francisco, 2018 - 2020
 > Yara Digital Farming develops software to optimize farming practices increasing yields, crop quality, & income in a sustainable way.
