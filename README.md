@@ -59,14 +59,7 @@ Senior Front-End Developer crafting pixel-perfect interfaces. I specialize in bu
 </details>
 
 <details>
-<summary><b>🌟 Key Skills</b></summary>
-
-- Frontend Architecture
-- Responsive Design
-- Code Reviews & Mentorship
-- Internationalization
-- A/B Testing
-- Performance Optimization
+<summary><b>🌟 Skills</b></summary>
 
 **Languages & Frameworks:**
 JavaScript, TypeScript, Python, HTML5, CSS3, React, Angular, Next.js, Node.js, Express, PHP, GraphQL
@@ -75,7 +68,7 @@ JavaScript, TypeScript, Python, HTML5, CSS3, React, Angular, Next.js, Node.js, E
 Recoil, Redux, Apollo, Tailwind, MUI, styled-components, Jest, Playwright, Docker, Git, SQL, Vim, Emacs
 
 **Concepts & Practices:**
-Responsive Design, Code Reviews, Planning, Mentorship, Internationalization, A/B Testing, Web3/DApps
+Frontend Architecture, Responsive Design, Code Reviews, Planning, Mentorship, Internationalization, A/B Testing, Performance Optimization, Web3/DApps
 </details>
 
 <details>
