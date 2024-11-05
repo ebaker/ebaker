@@ -6,15 +6,6 @@ Senior Front-End Developer crafting pixel-perfect interfaces. I specialize in bu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eliotbaker-0077B5)](https://www.linkedin.com/in/eliotbaker)
 [![GitHub](https://img.shields.io/badge/GitHub-ebaker-181717)](https://github.com/ebaker)
 
-## 💻 Tech Stack
-
-- **Frontend**: TypeScript, React, JavaScript, Next.js, HTML5, CSS3
-- **State Management**: Recoil, Redux
-- **Styling**: Tailwind CSS, CSS-in-JS, MUI, styled-components
-- **Backend**: Node.js, Express, PHP
-- **Testing**: Jest, Playwright
-- **Other**: GraphQL, Docker, Git, SQL, Web3/DApps
-
 <details>
 <summary><b>🚀 Experience</b></summary>
 
