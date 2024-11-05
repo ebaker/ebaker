@@ -7,7 +7,7 @@ Senior Front-End Developer crafting pixel-perfect interfaces. I specialize in bu
 [![GitHub](https://img.shields.io/badge/GitHub-ebaker-181717)](https://github.com/ebaker)
 
 <details>
-<summary><b>🚀 Experience</b></summary>
+<summary><h2>🚀 Experience</h2></summary>
 
 ### Senior Front End Software Engineer, Software Consultant (2022 - Present)
 - Develop web applications using TypeScript, Next.js, React, Recoil, Tailwind CSS, and libraries as needed
@@ -50,20 +50,20 @@ Senior Front-End Developer crafting pixel-perfect interfaces. I specialize in bu
 </details>
 
 <details>
-<summary><b>🌟 Skills</b></summary>
+<summary><h2>🌟 Skills</h2></summary>
 
-**Languages & Frameworks:**
+### Languages & Frameworks
 JavaScript, TypeScript, Python, HTML5, CSS3, React, Angular, Next.js, Node.js, Express, PHP, GraphQL
 
-**Libraries & Tools:**
+### Libraries & Tools
 Recoil, Redux, Apollo, Tailwind, MUI, styled-components, Jest, Playwright, Docker, Git, SQL, Vim, Emacs
 
-**Concepts & Practices:**
+### Concepts & Practices
 Frontend Architecture, Responsive Design, Code Reviews, Planning, Mentorship, Internationalization, A/B Testing, Performance Optimization, Web3/DApps
 </details>
 
 <details>
-<summary><b>📚 Education</b></summary>
+<summary><h2>📚 Education</h2></summary>
 
 - BS in Computer Engineering, Pennsylvania State University
 - AI Engineering Workshop, AI User Group San Francisco (2024)
